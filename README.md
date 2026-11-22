@@ -82,3 +82,7 @@ Para quedarte únicamente con lo solicitado en la práctica, usa `nms_basico.sh`
 chmod +x nms_basico.sh
 ./nms_basico.sh public 2c 192.168.1.10 SNMPv2-MIB::sysDescr.0
 ```
+
+## NMS en Java
+
+En la carpeta [java_snmp4j](java_snmp4j/) está el recorrido SNMP4J para consola. Pide los datos por teclado y usa SNMP 1 o 2c. Las instrucciones para compilar y probarlo están en su README.
